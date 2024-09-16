@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QtHelpProject version="1.0">
+    <namespace>walletfox.qt.helpexample</namespace>
+    <virtualFolder>doc</virtualFolder>
+    <filterSection>
+        <toc>
+            <section title="Справка" ref="index.html">
+                <section title="Данные" ref="./dan.html"></section>
+                <section title="Анализ данных" ref="./analys.html"></section>
+                <section title="Финансирование" ref="./fin.html"></section>
+                <section title="Программа" ref="./prog.html"></section>
+            </section>
+        </toc>
+        <keywords>
+            <keyword name="Данные" ref="./dan.html"/>
+            <keyword name="Анализ данных" ref="./analys.html"/>
+            <keyword name="Финансирование" ref="./fin.html"/>
+            <keyword name="Программа" ref="./prog.html"/>
+        </keywords>
+        <files>
+            <file>index.html</file>
+            <file>dan.html</file>
+            <file>analys.html</file>
+            <file>fin.html</file>
+            <file>prog.html</file>
+            <file>doc.files/image001.png</file>
+            <file>doc.files/image002.png</file>
+            <file>doc.files/image003.png</file>
+            <file>doc.files/image005.png</file>
+            <file>doc.files/image007.png</file>
+            <file>doc.files/image009.png</file>
+            <file>doc.files/image011.png</file>
+        </files>
+    </filterSection>
+</QtHelpProject>
